@@ -15,7 +15,9 @@ Instead of relying on platform search or bookmarks, I use this file as a simple,
 ## Articles
 
 _All articles listed below are written by me and published on Hashnode._
-  
+  - [Why Version Control Exists: The Pendrive Problem]()
+  - [Git for Beginners: Basics and Essential Commands]()
+  - [Inside Git: How It Works and the Role of the .git Folder]()
 ## Organization
 
 Articles can optionally be grouped by:
