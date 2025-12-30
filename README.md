@@ -15,7 +15,7 @@ Instead of relying on platform search or bookmarks, I use this file as a simple,
 ## Articles
 
 _All articles listed below are written by me and published on Hashnode._
-  - [Why Version Control Exists: The Pendrive Problem]()
+  - [Why Version Control Exists: The Pendrive Problem](https://dev.to/dark-lord-harsh/why-version-control-exists-the-pendrive-problem-every-developer-faced-1h0d)
   - [Git for Beginners: Basics and Essential Commands]()
   - [Inside Git: How It Works and the Role of the .git Folder]()
 ## Organization
