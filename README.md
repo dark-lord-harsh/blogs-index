@@ -18,6 +18,7 @@ _All articles listed below are written by me and published on Hashnode._
   - [Why Version Control Exists: The Pendrive Problem](https://dev.to/dark-lord-harsh/why-version-control-exists-the-pendrive-problem-every-developer-faced-1h0d)
   - [Git for Beginners: Basics and Essential Commands](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
   - [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/dark-lord-harsh/inside-git-how-it-works-and-the-role-of-the-git-folder-2ho1)
+  - [Understanding Network Devices](https://dev.to/dark-lord-harsh/understanding-network-devices-23pd)
 ## Organization
 
 Articles can optionally be grouped by:
