@@ -21,6 +21,7 @@ _All articles listed below are written by me and published on Hashnode._
   - [Understanding Network Devices](https://dev.to/dark-lord-harsh/understanding-network-devices-23pd)
   - [How DNS Resolution Works](https://dev.to/dark-lord-harsh/how-dns-resolution-works-2o3m)
   - [DNS Record Types Explained](https://dev.to/dark-lord-harsh/dns-record-types-explained-8hf)
+  - [Getting Started with cURL](https://dev.to/dark-lord-harsh/getting-started-with-curl-20fp)
 ## Organization
 
 Articles can optionally be grouped by:
